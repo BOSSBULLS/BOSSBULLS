@@ -2,7 +2,9 @@
 
 Leader board will be created based on Players Experience Points on monthly basis.
 
-Player Experience Points can be increased by completing BULLS Missions and having some Items/Buildings which are sold in BULLS Store.
+Players will get Experience Points by completing BULLS Missions successfully.
+
+Having some equipments will help Players to do more missions and successful missions, thus also increase Experiment Points indirectly!
 
 Rewards will be provided by Game Rewards Pool. Game Reward Pool will be further explained in Next Section $BBULS Tokenomics.
 
