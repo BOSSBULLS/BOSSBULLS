@@ -20,16 +20,19 @@ description: >-
 | Advisory     | 10,000,000  | 10%   |
 | Game Rewards | 80,000,000  | 80%   |
 | Listing      | 5,000,000   | 5%    |
+| Team         | 0           | 0%    |
 | Total        | 100,000,000 |       |
+
+**There is no $BBULS Allocation for Team**
 
 ### Airdrop
 
 Airdrop <mark style="color:orange;"></mark> is reserved to reward NFT buyers. It has a limited supply of 5M $BBULS tokens and allocated across NFT owners based on the number of NFTs and rarities.
 
-| NFT Rarity     | Common | Uncommon | Rare   | Legendary | BIG BOSS | Total   |
-| -------------- | ------ | -------- | ------ | --------- | -------- | ------- |
-| Airdrop Share  | 0.5%   | 9.5%     | 22.5%  | 31.5%     | 36.0%    | 100%    |
-| Monthly (1-12) | 1,875  | 39,754   | 93,759 | 131,263   | 150,015  | 416,667 |
+| NFT Rarity               | Common | Uncommon | Rare   | Legendary | BIG BOSS | Total   |
+| ------------------------ | ------ | -------- | ------ | --------- | -------- | ------- |
+| Airdrop Share            | 0.5%   | 9.5%     | 22.5%  | 31.5%     | 36.0%    | 100%    |
+| Monthly 1-12 (per-month) | 1,875  | 39,754   | 93,759 | 131,263   | 150,015  | 416,667 |
 
 ### Token Pools
 
