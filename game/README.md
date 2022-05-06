@@ -4,6 +4,8 @@ description: First Mafia-themed Play to Earn Game on Avalanche
 
 # 🎮 Game
 
+![](../.gitbook/assets/FPNexU4XoAEUE75.jpeg)
+
 #### Start
 
 See your NFTs, Characteristics and Availability for Missions.
